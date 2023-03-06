@@ -1,0 +1,4 @@
+ steps:
+   - name: 'ubuntu'
+     args: ['echo','HI Nitesh this is your first devsecops project']
+     
